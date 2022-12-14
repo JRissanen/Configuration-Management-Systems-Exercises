@@ -13,4 +13,4 @@ This is a repository which contains links to all my other repositories for the c
 
 [h6 Kulkurin projekti](https://github.com/JRissanen/h6-Kulkurin-projekti)
 
-h7 Oma Projekti(https://github.com/JRissanen/My-Own-Mini-Salt-Project)
+[h7 Oma Projekti](https://github.com/JRissanen/My-Own-Mini-Salt-Project)
