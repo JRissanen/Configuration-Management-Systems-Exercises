@@ -11,6 +11,6 @@ h4 Omat komennot
 
 h5 Windows
 
-[h6 Kulkurin projekti] (https://github.com/JRissanen/h6-Kulkurin-projekti)
+[h6 Kulkurin projekti](https://github.com/JRissanen/h6-Kulkurin-projekti)
 
 h7 Oma Projekti
