@@ -1,5 +1,5 @@
 # Configuration-Management-Systems-Exercises
-This is a repository which contains links to all my other repositories for the course Configuration Management Systems
+This is a repository which contains links to all my exercise repositories for the course Configuration Management Systems.
 
 [h1 Hello Salt](https://github.com/JRissanen/h1-Hello-Salt)
 
